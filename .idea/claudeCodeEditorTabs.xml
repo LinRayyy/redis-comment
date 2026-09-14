@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="2655ec89-9186-4bac-85f3-7d4f2bb5a0a2" />
+    <option name="openSessionIds">
+      <list>
+        <option value="2655ec89-9186-4bac-85f3-7d4f2bb5a0a2" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="2655ec89-9186-4bac-85f3-7d4f2bb5a0a2" value="/sessions/f109eacb-d187-4a79-a2ad-fb49f95b6e11" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="2655ec89-9186-4bac-85f3-7d4f2bb5a0a2" value="# 任务目标：在现有项目中基于 Session 实现短信验证码登录与拦截鉴权 你是一个经验丰富的" />
+      </map>
+    </option>
+  </component>
+</project>
